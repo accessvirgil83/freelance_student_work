@@ -1,0 +1,17 @@
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\bin\Debug\net6.0-windows\PaintVictory.exe
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\bin\Debug\net6.0-windows\PaintVictory.deps.json
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\bin\Debug\net6.0-windows\PaintVictory.runtimeconfig.json
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\bin\Debug\net6.0-windows\PaintVictory.dll
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\bin\Debug\net6.0-windows\PaintVictory.pdb
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.Form1.resources
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.csproj.GenerateResource.cache
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.AssemblyInfoInputs.cache
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.AssemblyInfo.cs
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.csproj.CoreCompileInputs.cache
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.dll
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\refint\PaintVictory.dll
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.pdb
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.genruntimeconfig.cache
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\ref\PaintVictory.dll
+C:\Users\rs\OneDrive\Документы\Sudoku\PaintVictory\obj\Debug\net6.0-windows\PaintVictory.Properties.Resources.resources
