@@ -1,0 +1,17 @@
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\bin\Debug\PolynaWPF2.exe.config
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\bin\Debug\PolynaWPF2.exe
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\bin\Debug\PolynaWPF2.pdb
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.csproj.AssemblyReference.cache
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\MainWindow.g.cs
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\App.g.cs
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2_MarkupCompile.cache
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2_MarkupCompile.lref
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\MainWindow.baml
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.g.resources
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.Form1.resources
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.Properties.Resources.resources
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.csproj.GenerateResource.cache
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.csproj.CoreCompileInputs.cache
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.exe
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.pdb
+C:\Users\rs\OneDrive\Документы\Sudoku\PolynaWPF2\obj\Debug\PolynaWPF2.Form2.resources
